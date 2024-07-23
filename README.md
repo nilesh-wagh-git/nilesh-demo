@@ -1,6 +1,6 @@
-# nilesh-demo
+nilesh-demo
 This is my first git hub repository.
 <br>
-Author : Nilesh Wagh.
+Author : Nilesh Wagh.(@hct)
 #About
-This is modified by NRW
+This is modified by NR
